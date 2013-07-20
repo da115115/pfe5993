@@ -1,8 +1,8 @@
-#include <graphics.h>
+//#include <graphics.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <conio.h>
+#include <curses.h>
 #include <math.h>
 
 #include "geom.h"
